@@ -1,0 +1,15 @@
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\bin\Debug\net6.0\CSharpGenerics.exe
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\bin\Debug\net6.0\CSharpGenerics.deps.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\bin\Debug\net6.0\CSharpGenerics.runtimeconfig.json
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\bin\Debug\net6.0\CSharpGenerics.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\bin\Debug\net6.0\CSharpGenerics.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.csproj.AssemblyReference.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.AssemblyInfoInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.AssemblyInfo.cs
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.csproj.CoreCompileInputs.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\refint\CSharpGenerics.dll
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.pdb
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\CSharpGenerics.genruntimeconfig.cache
+C:\Users\DijiSolSolutions\Documents\LearnCSharp\CSharpGenerics\obj\Debug\net6.0\ref\CSharpGenerics.dll
